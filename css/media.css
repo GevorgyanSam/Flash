@@ -1,0 +1,532 @@
+
+
+
+                /* 1500 px */
+
+
+
+@media only screen and (max-width: 1500px){
+    .homeH1 {
+        left: 34%;
+        font-size: 70px;
+    }
+    .homeP{
+        left: 37.5%;
+        font-size: 22px;
+    }
+}
+
+
+
+                /* 1380 px */
+
+                
+
+@media only screen and (max-width: 1380px){
+    .homeH1{
+        left: 34%;
+        font-size: 60px;
+    }
+    .homeP{
+        top: 48%;
+        left: 37%;
+        font-size: 22px;
+        line-height: 27px;
+        letter-spacing: 1px;
+    }
+    .contactForm .contactInp1{
+        height: 60px;
+        width: 430px;
+        font-size: 18px;
+    }
+    #aboutChildP1{
+        display: none;
+    }
+    .serviceP1 {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .aboutImg {
+        height: 350px;
+    }
+    .contactForm .contactInp2{
+        width: 910px;
+        font-size: 18px;
+    }
+    .footerChildParent .footerChild:nth-child(3) {
+        margin-top: 0px;
+    }
+}
+
+
+
+                /* 1145 px */
+
+                
+
+@media only screen and (max-width: 1145px){
+    .homeH1{
+        top: 39%;
+        font-size: 45px;
+    }
+    .homeP{
+        top: 49%;
+        left: 35%;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .aboutParent .aboutP{
+        font-size: 18px;
+        margin-top: 25px;
+        line-height: 25px;
+    }
+    .aboutContent {
+        display: block;
+        text-align: center;
+    }
+    .aboutImg {
+        height: 450px;
+        margin-bottom: 50px;
+    }
+    .aboutContent .aboutChild:nth-child(2) {
+        margin-left: 0px;
+    }
+    #aboutChildP1{
+        display: none;
+    }
+    .aboutChild .aboutChildP1{
+        font-size: 20px;
+    }
+    .aboutChild .aboutChildP2{
+        margin: 15px 0 25px 0;
+        font-size: 28px;
+    }
+    .servicesParent .serviceP {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .serviceP1 {
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .serviceH4 {
+        font-size: 25px;
+    }
+    .serviceChild1 i{
+        font-size: 45px;
+    }
+    .serviceChild2 i{
+        font-size: 45px;
+    }
+    .portfolioParent .portfolioP {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .statsParent .statsP {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .content i {
+        font-size: 55px;
+    }
+    .content {
+        margin: 20px 65px;
+    }
+    .statsH4 {
+        font-size: 28px;
+    }
+    .teamImg {
+        width: 170px;
+    }
+    .contactParent .contactP {
+        font-size: 17px;
+        line-height: 26px;
+    }
+    .contactForm .contactInp1 {
+        width: 330px;
+    }
+    .contactForm .contactInp2 {
+        width: 705px;
+        height: 210px;
+    }
+    .footerChildParent .footerChild .footerP {
+        font-size: 16px;
+    }
+}
+
+
+
+                /* 950 px */
+
+                
+
+@media only screen and (max-width: 950px){
+    .serviceP1 {
+        line-height: 18px;
+        font-size: 12px;
+    }
+    .serviceH4 {
+        font-size: 22px;
+    }
+    .serviceChild1 i {
+        font-size: 38px;
+    }
+    .portfolioParent .portfolioP {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .portfolioImgParent .portfolioImg {
+        height: 410px;
+    }
+    .pricingTable:nth-child(2){
+        display: none;
+    }
+    .content {
+        margin: 20px 40px;
+    }
+    .contactForm .contactInp1 {
+        width: 600px;
+        margin-top: 10px;
+    }
+    .contactForm .contactInp2 {
+        width: 600px;
+        height: 170px;
+        margin-top: 10px;
+    }
+    .footerChildParent .footerChild .footerP {
+        font-size: 14px;
+    }
+}
+
+
+
+                /* 890 px */
+
+                
+
+@media only screen and (max-width: 890px){
+    .serviceButtonParent1{
+        display: block;
+    }
+    .serviceButtonParent1 .serviceChild1{
+        margin-left: 50%;
+        margin-top: 20px;
+        transform: translate(-50%);
+        padding: 40px;
+        height: 320px;
+        width: 420px;
+    }
+    .serviceButtonParent1 .serviceChild1 i{
+        font-size: 53px;
+    }
+    .serviceButtonParent1 .serviceChild1 h4{
+        font-size: 43px;
+    }
+    .serviceP1 {
+        font-size: 20px;
+    }
+    .serviceButtonParent2{
+        display: none;
+    }
+    .footerChildParent {
+        display: block;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+    .footerChildParent .footerChild .footerH4{
+        font-size: 35px;
+    }
+    .footerChildParent .footerChild {
+        margin: 20px auto;
+        width: 75%;
+    }
+}
+
+
+
+                /* 780 px */
+
+                
+
+@media only screen and (max-width: 780px){
+    .homeH1 {
+        left: 31%;
+        font-size: 40px;
+    }
+    .homeP {
+        top: 50%;
+        left: 32%;
+        font-size: 16px;
+    }
+    .aboutImg {
+        height: 350px;
+    }
+    .serviceButtonParent1{
+        display: block;
+    }
+    .serviceButtonParent1 .serviceChild1{
+        margin-left: 50%;
+        margin-top: 20px;
+        transform: translate(-50%);
+        padding: 40px;
+        height: 300px;
+        width: 400px;
+    }
+    .serviceButtonParent1 .serviceChild1 i{
+        font-size: 50px;
+    }
+    .serviceButtonParent1 .serviceChild1 h4{
+        font-size: 40px;
+    }
+    .serviceP1 {
+        font-size: 19px;
+    }
+    .serviceButtonParent2{
+        display: none;
+    }
+    .portfolioButtonParent .portfolioButton {
+        margin: 0px 5px;
+    }
+    .pricingTable:nth-child(2){
+        display: none;
+    }
+    .pricingTable:nth-child(3){
+        display: none;
+    }
+    .pricingTable {
+        width: 390px;
+    }
+    .content {
+        margin: 20px 25px;
+    }
+    .content i {
+        font-size: 45px;
+    }
+    .teamContent:nth-child(3){
+        display: none;
+    }
+    .teamParent .teamP {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .contactForm .contactInp1 {
+        width: 450px;
+        margin-top: 10px;
+    }
+    .contactForm .contactInp2 {
+        width: 450px;
+        height: 170px;
+        margin-top: 10px;
+    }
+    .footerChildParent .footerChild .footerP {
+        font-size: 15px;
+    }
+    .navParent .navP_2 ul li a {
+        font-size: 10px;
+    }
+}
+
+
+
+                /* 660 px */
+
+                
+
+@media only screen and (max-width: 660px){
+    .navParent{
+        height: 60px;
+    }
+    .navParent .navP_2 ul li a {
+        padding: 10px 5px;
+    }
+    .homeH1 {
+        left: 27%;
+        font-size: 37px;
+    }
+    .homeP {
+        top: 52%;
+        left: 28%;
+        font-size: 15px;
+    }
+    .aboutParent {
+        padding: 45px;
+    }
+    .aboutParent .aboutH1{
+        font-size: 40px;
+    }
+    .aboutParent .aboutP{
+        font-size: 14px;
+    }
+    .aboutImg {
+        height: 320px;
+    }
+    .portfolioParent .portfolioH1{
+        font-size: 40px;
+    }
+    .portfolioParent .portfolioP {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .portfolioButtonParent {
+        display: inline-block;
+    }
+    .portfolioButtonParent .portfolioButton {
+        margin: 10px 5px;
+    }
+    .portfolioImgParent .portfolioImg {
+        height: 330px;
+    }
+    .statsContent{
+        display: block;
+    }
+    .content {
+        margin: 45px 25px;
+    }
+    .teamImgParent{
+        display: block;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .teamContent{
+        margin: 20px auto;
+    }
+    .teamImg {
+        width: 200px;
+    }
+    .teamH4 {
+        font-size: 30px;
+        margin: 20px 0;
+    }
+    .portfolioParent {
+        padding: 45px 0 40px 0;
+    }
+    .statsParent {
+        padding: 45px 0 40px 0;
+    }
+    .pricingParent {
+        padding: 45px 0 40px 0;
+    }
+    .statsParent .statsH1 {
+        font-size: 45px;
+    }
+    .pricingParent .pricingH1 {
+        font-size: 45px;
+    }
+    .teamParent {
+        padding: 45px 0 40px 0;
+    }
+    .teamParent .teamH1 {
+        font-size: 45px;
+    }
+    .contactParent {
+        padding: 45px 0 40px 0;
+    }
+    .contactParent .contactH1 {
+        font-size: 45px;
+    }
+    #scrollUp {
+        padding: 25px;
+        height: 50px;
+        width: 50px;
+        font-size: 25px;
+    }
+    .content i {
+        font-size: 55px;
+    }
+    .statsH4 {
+        font-size: 35px;
+    }
+    .statsP1 {
+        font-size: 30px;
+    }
+    .servicesParent{
+        padding: 45px;
+    }
+    .servicesParent .serviceH1{
+        font-size: 40px;
+    }
+    .servicesParent .serviceP{
+        font-size: 14px;
+    }
+    .serviceButtonParent1 .serviceChild1 h4 {
+        font-size: 30px;
+    }
+}
+
+
+
+                /* 550 px */
+
+                
+
+@media only screen and (max-width: 555px){
+    .navParent{
+        display: block;
+    }
+    .navIcon{
+        height: 40px;
+        margin-top: 5px;
+    }
+    .navParent {
+        height: 80px;
+    }
+    .homeH1 {
+        font-size: 30px;
+    }
+    .homeP {
+        top: 52%;
+        left: 29%;
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .aboutParent {
+        padding: 70px 0 70px 0;
+    }
+    .servicesParent {
+        padding: 70px 0 70px 0;
+    }
+    .contactParent {
+        padding: 70px;
+    }
+    .aboutImg {
+        height: 260px;
+    }
+    .aboutChild .aboutChildP2 {
+        margin: 25px 0 25px 0;
+    }
+    .serviceButtonParent1 .serviceChild1 {
+        padding: 30px;
+        height: 250px;
+        width: 350px;
+    }
+    .portfolioParent {
+        padding: 70px 0 70px 0;
+    }
+    .portfolioImgParent .portfolioImg {
+        height: 235px;
+        margin-top: 5px;
+    }
+    .pricingParent {
+        padding: 70px 0 70px 0;
+    }
+}
+
+
+
+                /* 510 px */
+
+                
+
+@media only screen and (max-width: 510px){
+    .contactParent{
+        padding: 70px 0 70px 0;
+    }
+    .contactForm .contactInp1 {
+        width: 380px;
+    }
+    .contactForm .contactInp2 {
+        width: 380px;
+    }
+}
